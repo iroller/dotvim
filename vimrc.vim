@@ -103,6 +103,7 @@ nmap <F3> :TlistToggle <CR>
 set tw=78
 
 "set list listchars=tab:▸·,trail:·,eol:¬
+set nolist
 highlight SpecialKey guifg=#333333 ctermfg=DarkGray
 
 "language C
