@@ -191,7 +191,7 @@ set go-=T
 set nu
 
 " Line wrap and visual bell
-set nowrap
+set wrap
 set visualbell
 set ai
 
