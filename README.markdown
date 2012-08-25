@@ -1,7 +1,3 @@
-# .vim configurat'o'matic framework
-
-Inspired by and forked from [evtuhovich/dotvim][1]
-
 ## INSTALLATION
 
 Before doing anything else please `git clone` this to your favorite place.
@@ -16,5 +12,3 @@ For raking options see `rake -T`
 
 This file contains required plugins declaration. See the documenting comments 
 in there.
-
-[1]: https://github.com/evtuhovich/dotvim "Ivan Evtukhovich's .vim" 
