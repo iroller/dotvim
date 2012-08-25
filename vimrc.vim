@@ -18,7 +18,8 @@ call pathogen#runtime_append_all_bundles()
 
 "set background=dark
 "colorscheme solarized
-colorscheme vividchalk
+"colorscheme vividchalk
+colorscheme ir_black
 
 set ignorecase
 syntax on
